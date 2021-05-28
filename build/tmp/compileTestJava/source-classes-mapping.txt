@@ -1,0 +1,3 @@
+com/userregistartion/UserRegistartionEmailValidatorTest.java
+ com.userregistartion.UserRegistartionEmailValidatorTest
+ com.userregistartion.UserRegistartionEmailValidatorTest$UserRegistrationEmailValidatorTest
